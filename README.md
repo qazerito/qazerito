@@ -2,5 +2,5 @@
 - 👀 I’m a student studying cs.
 - 🌱 I’m currently learning pentesting and programming.
 
-- Contact:
-Reddit @pahv
+- Here are my socials:
+- Reddit @pahv
