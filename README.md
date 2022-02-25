@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pahv
+- 👋 Hi, I’m @q4zr
 - 👀 I’m a student studying cs.
 - 🌱 I’m currently learning pentesting and programming.
