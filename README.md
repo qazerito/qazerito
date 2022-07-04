@@ -1,5 +1,5 @@
-• Artix Linux & AwesomeWM 🐧<br/>
+• NixOS w/ Gnome 🐧<br/>
 • Typing, Modded Minecraft, Coding 🤍<br/>
-• Currently learning RustLang 🦀<br/>
+• Currently learning Rust 🦀<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q4zr&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qazerito&layout=compact)
